@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="43cf43f8082945ea9b59a7dd3cb57fdb" Name="Diagram1">
+        <EntityTypeShape EntityType="RestauranteModel.Comentario" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Favorito" Width="1.5" PointX="6" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Feedback" Width="1.5" PointX="5.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Lidere" Width="1.5" PointX="7.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Locale" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Plato" Width="1.5" PointX="0.75" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Reserva" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.sysdiagram" Width="1.5" PointX="8.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.TipoPlato" Width="1.5" PointX="1.5" PointY="19.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.Usuario" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestauranteModel.WebToken" Width="1.5" PointX="3" PointY="16.125" IsExpanded="true" />
+        <AssociationConnector Association="RestauranteModel.FK__Comentari__IdPla__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.PK_Usuario_Comentario" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.FK__Favoritos__IdPla__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.FK__Favoritos__IdUsu__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.FK__Reserva__IdLocal__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.FK__Platos__IdTipo__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.FK__Reserva__IdUsuar__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="RestauranteModel.Fk_Token_Usuario" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

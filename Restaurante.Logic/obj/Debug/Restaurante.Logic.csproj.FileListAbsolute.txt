@@ -1,0 +1,9 @@
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\bin\Debug\Restaurante.Logic.dll
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\bin\Debug\Restaurante.Logic.pdb
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\bin\Debug\Restaurante.Entities.dll
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\bin\Debug\Restaurante.Entities.pdb
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\obj\Debug\Restaurante.Logic.csprojResolveAssemblyReference.cache
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\obj\Debug\Restaurante.Logic.csproj.CoreCompileInputs.cache
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\obj\Debug\Restaurante.Logic.csproj.CopyComplete
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\obj\Debug\Restaurante.Logic.dll
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\obj\Debug\Restaurante.Logic.pdb
