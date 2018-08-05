@@ -124,7 +124,6 @@ namespace Restaurante.Tests
             Assert.AreEqual(1, response.detallePlato.plato.id);
             Assert.AreEqual(2, response.detallePlato.plato.comentarios.Count);
             mockContext.VerifyAll();
-
         }
 
     }
