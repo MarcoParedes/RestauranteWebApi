@@ -10,9 +10,23 @@ namespace Restaurante.Business
 {
     public class TipoPlatoBiz : ITipoPlatoBiz
     {
+        private IContextDbRestaurante _context;
+
+        public TipoPlatoBiz() { }
+
+        public TipoPlatoBiz(IContextDbRestaurante ctx)
+        {
+            _context = ctx;
+        }
+
+        private IContextDbRestaurante GetContext()
+        {
+            return _context ?? new RestauranteEntities();
+        }
+
         public TipoPlatoResponse ObtenerTipoPlato()
         {
-            using (var context = new RestauranteEntities())
+            using (var context = GetContext())
             {
                 var query = context.TipoPlatoes
                                 .Select(x => new

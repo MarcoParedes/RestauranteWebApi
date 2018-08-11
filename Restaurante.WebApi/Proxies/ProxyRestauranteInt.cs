@@ -6,15 +6,15 @@ namespace Restaurante.WebApi.Proxies
 {
     public class ProxyRestauranteInt
     {
-        private static ITipoPlatoBiz ITipoReclamoBiz;
-        public static ITipoPlatoBiz TipoReclamo
-        {
-            get
-            {
-                ITipoReclamoBiz = new TipoPlatoBiz();
-                return ITipoReclamoBiz;
-            }
-        }
+        //private static ITipoPlatoBiz ITipoReclamoBiz;
+        //public static ITipoPlatoBiz TipoReclamo
+        //{
+        //    get
+        //    {
+        //        ITipoReclamoBiz = new TipoPlatoBiz();
+        //        return ITipoReclamoBiz;
+        //    }
+        //}
 
         private static IUsuarioBiz IUsuarioBiz;
         public static IUsuarioBiz Usuario
