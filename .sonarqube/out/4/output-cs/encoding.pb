@@ -1,0 +1,11 @@
+h
+_D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\App_Start\RouteConfig.csutf-8i
+`D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\App_Start\WebApiConfig.csutf-8m
+dD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\HomeController.csutf-8n
+eD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\PlatoController.csutf-8r
+iD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\TipoPlatoController.csutf-8p
+gD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\UsuarioController.csutf-8^
+UD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Global.asax.csutf-8i
+`D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Models\ResponseMessage.csutf-8j
+aD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Properties\AssemblyInfo.csutf-8n
+eD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Proxies\ProxyRestauranteInt.csutf-8

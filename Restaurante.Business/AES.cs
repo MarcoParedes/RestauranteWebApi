@@ -12,8 +12,8 @@ namespace Restaurante.Business
         private static byte[] password = { 1, 22, 19, 111, 24, 26, 85, 45, 114, 184, 27, 111, 37, 112, 100, 200, 241, 24, 175, 144, 173, 53, 196, 29, 24, 26, 17, 218, 131, 236, 53, 209 };
         private static byte[] vector = { 146, 64, 191, 104, 123, 3, 2, 1, 231, 121, 221, 112, 79, 32, 114, 1 };
 
-        private ICryptoTransform Encryptor, Decryptor;
-        private UTF8Encoding UTF8;
+        private readonly ICryptoTransform Encryptor, Decryptor;
+        private readonly UTF8Encoding UTF8;
 
         public AES()
         {

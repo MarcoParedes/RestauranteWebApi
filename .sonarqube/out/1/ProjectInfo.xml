@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Restaurante.Entities</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>2845d7a1-9aae-4fc9-8d1d-4d274aefd72c</ProjectGuid>
+  <FullPath>D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Restaurante.Entities.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\Proyectos\RestauranteWebApi\Restaurante.Solution\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\bin\Debug\Restaurante.Entities.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">D:\Proyectos\RestauranteWebApi\Restaurante.Solution\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

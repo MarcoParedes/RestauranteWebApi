@@ -1,0 +1,14 @@
+k
+bD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\ComentarioModel.csutf-8m
+dD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\DetallePlatoModel.csutf-8f
+]D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\PlatoModel.csutf-8j
+aD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\TipoPlatoModel.csutf-8h
+_D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\UsuarioModel.csutf-8o
+fD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerDetallePlatoRequest.csutf-8p
+gD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerDetallePlatoResponse.csutf-8i
+`D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerPlatosRequest.csutf-8j
+aD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerPlatosResponse.csutf-8f
+]D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\TipoPlatoResponse.csutf-8c
+ZD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\UsuarioRequest.csutf-8l
+cD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Properties\AssemblyInfo.csutf-8d
+[D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\UsuarioResponse.csutf-8

@@ -1,0 +1,15 @@
+d
+bD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\ComentarioModel.csf
+dD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\DetallePlatoModel.cs_
+]D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\PlatoModel.csc
+aD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\TipoPlatoModel.csa
+_D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Models\UsuarioModel.csh
+fD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerDetallePlatoRequest.csi
+gD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerDetallePlatoResponse.csb
+`D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerPlatosRequest.csc
+aD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\ObtenerPlatosResponse.cs_
+]D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\TipoPlatoResponse.cs\
+ZD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\UsuarioRequest.cse
+cD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Properties\AssemblyInfo.cs]
+[D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\UsuarioResponse.csX
+TC:\Users\Marco\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs

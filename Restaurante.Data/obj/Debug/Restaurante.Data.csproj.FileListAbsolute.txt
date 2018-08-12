@@ -6,7 +6,7 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\bin\Debug\E
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\bin\Debug\EntityFramework.xml
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.csprojResolveAssemblyReference.cache
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.csproj.CoreCompileInputs.cache
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.csproj.CopyComplete
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.pdb
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.csproj.CoreCompileInputs.cache
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\obj\Debug\Restaurante.Data.csproj.CopyComplete

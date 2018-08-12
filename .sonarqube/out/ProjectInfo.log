@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Data\Restaurante.Data.csproj
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\Restaurante.Entities.csproj
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Logic\Restaurante.Logic.csproj
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Business\Restaurante.Business.csproj
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Restaurante.WebApi.csproj
+
+
+Test projects
+---------------------------------------
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\Restaurante.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

@@ -71,6 +71,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PlatosBizTest.cs" />
     <Compile Include="TipoPlatoBizTest.cs" />
+    <Compile Include="UsuarioTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -88,6 +89,10 @@
     <ProjectReference Include="..\Restaurante.Entities\Restaurante.Entities.csproj">
       <Project>{2845D7A1-9AAE-4FC9-8D1D-4D274AEFD72C}</Project>
       <Name>Restaurante.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Restaurante.Logic\Restaurante.Logic.csproj">
+      <Project>{B2E69D53-5A27-4899-9DFB-BE4EC45D45B7}</Project>
+      <Name>Restaurante.Logic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

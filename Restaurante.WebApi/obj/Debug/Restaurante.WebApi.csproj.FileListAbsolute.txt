@@ -67,9 +67,7 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Syste
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\System.Web.Webpages.Razor.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\EntityFramework.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Business.pdb
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Business.dll.config
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Data.pdb
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Data.dll.config
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\System.Net.Http.Formatting.xml
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\System.Web.Http.xml
@@ -93,8 +91,6 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\es\Sy
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\es\System.Web.Mvc.resources.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.csprojResolveAssemblyReference.cache
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.csproj.CoreCompileInputs.cache
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.csproj.CopyComplete
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.pdb
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\EntityFramework.SqlServer.dll
@@ -103,3 +99,7 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Resta
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Entities.pdb
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Logic.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Logic.pdb
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Business.dll.config
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\bin\Restaurante.Data.dll.config
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.csproj.CoreCompileInputs.cache
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\obj\Debug\Restaurante.WebApi.csproj.CopyComplete

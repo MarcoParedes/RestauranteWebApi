@@ -1,0 +1,12 @@
+a
+_D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\App_Start\RouteConfig.csb
+`D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\App_Start\WebApiConfig.csf
+dD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\HomeController.csg
+eD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\PlatoController.csk
+iD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\TipoPlatoController.csi
+gD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Controllers\UsuarioController.csW
+UD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Global.asax.csb
+`D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Models\ResponseMessage.csc
+aD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Properties\AssemblyInfo.csg
+eD:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.WebApi\Proxies\ProxyRestauranteInt.csX
+TC:\Users\Marco\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs

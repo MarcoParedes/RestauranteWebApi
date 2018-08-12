@@ -2,13 +2,24 @@
 using Restaurante.Entities;
 using Restaurante.Logic;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace Restaurante.Business
 {
     public class UsuarioBiz : IUsuarioBiz
     {
+        private readonly IContextDbRestaurante _context;
+
+        public UsuarioBiz()
+        {
+            _context = new RestauranteEntities();
+        }
+
+        public UsuarioBiz(IContextDbRestaurante ctx)
+        {
+            _context = ctx;
+        }
+
         public UsuarioResponse RegistrarUsuario(UsuarioRequest request)
         {
             UsuarioResponse response = null;
@@ -20,36 +31,29 @@ namespace Restaurante.Business
             var password = AES.GetInstance().Encrypt(request.clave);
             usuario.Clave = password;
 
-            using (var context = new RestauranteEntities())
+            var exists = _context.Usuarios.Any(x => x.Correo == usuario.Correo);
+            if (!exists)
             {
-                var exists = context.Usuarios.Any(x => x.Correo == usuario.Correo);
-                if (!exists)
+                _context.Usuarios.Add(usuario);
+                int result = _context.SaveChanges();
+
+                response = new UsuarioResponse()
                 {
-                    context.Usuarios.Add(usuario);
-                    int result = context.SaveChanges();
+                    correo = usuario.Correo,
+                    nombreCompleto = usuario.NombreCompleto
+                };
 
-                    response = new UsuarioResponse()
-                    {
-                        correo = usuario.Correo,
-                        nombreCompleto = usuario.NombreCompleto
-                    };
-
-                    response = result == 1 ? response : null;
-                }
-                return response;
+                response = result == 1 ? response : null;
             }
+            return response;
         }
 
         public bool Ingresar(UsuarioRequest request)
         {
             var password = AES.GetInstance().Encrypt(request.clave);
-            using (var context = new RestauranteEntities())
-            {
-                var data = context.Usuarios.SingleOrDefault(x => x.Correo == request.correo);
-                var clave = AES.GetInstance().Decrypt(data.Clave);
-                bool exists = context.Usuarios.Any(x => x.Correo == request.correo && x.Clave == password);
-                return exists;
-            }
+            var data = _context.Usuarios.SingleOrDefault(x => x.Correo == request.correo);
+            bool exists = _context.Usuarios.Any(x => x.Correo == request.correo && x.Clave == password);
+            return exists;
         }
 
     }

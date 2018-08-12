@@ -17,5 +17,7 @@ namespace Restaurante.Data
         DbSet<TipoPlato> TipoPlatoes { get; set; }
         DbSet<Usuario> Usuarios { get; set; }
         DbSet<WebToken> WebTokens { get; set; }
+
+        int SaveChanges();
     }
 }

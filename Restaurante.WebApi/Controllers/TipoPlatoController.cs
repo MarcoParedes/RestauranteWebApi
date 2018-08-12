@@ -12,6 +12,7 @@ namespace Restaurante.WebApi.Controllers
     public class TipoPlatoController : ApiController
     {
         private ITipoPlatoBiz _bizTipoPlato;
+
         public TipoPlatoController()
         {
             _bizTipoPlato = new TipoPlatoBiz();
@@ -27,7 +28,6 @@ namespace Restaurante.WebApi.Controllers
         [Route("GetTipoPlato")]
         public ResponseMessage<TipoPlatoResponse> Get()
         {
-            //var data = Proxies.ProxyRestauranteInt.TipoReclamo.ObtenerTipoPlato();
             var data = _bizTipoPlato.ObtenerTipoPlato();
 
             var response = new ResponseMessage<TipoPlatoResponse>
@@ -40,25 +40,5 @@ namespace Restaurante.WebApi.Controllers
             return response;
         }
 
-        // GET: api/TipoPlato/5
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST: api/TipoPlato
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT: api/TipoPlato/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE: api/TipoPlato/5
-        public void Delete(int id)
-        {
-        }
     }
 }

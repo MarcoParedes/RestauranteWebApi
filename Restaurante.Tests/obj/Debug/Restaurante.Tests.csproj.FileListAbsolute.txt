@@ -20,9 +20,7 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\System.ValueTuple.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Logic.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Business.pdb
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Business.dll.config
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Data.pdb
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Data.dll.config
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Entities.pdb
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Castle.Core.xml
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\EntityFramework.xml
@@ -35,7 +33,9 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\System.ValueTuple.xml
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Logic.pdb
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.csprojResolveAssemblyReference.cache
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.csproj.CoreCompileInputs.cache
-D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.csproj.CopyComplete
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.pdb
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Business.dll.config
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\bin\Debug\Restaurante.Data.dll.config
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.csproj.CoreCompileInputs.cache
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Tests\obj\Debug\Restaurante.Tests.csproj.CopyComplete
