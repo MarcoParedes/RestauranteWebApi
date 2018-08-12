@@ -5,3 +5,5 @@ D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\obj\Deb
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\obj\Debug\Restaurante.Entities.csprojResolveAssemblyReference.cache
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\bin\Debug\Newtonsoft.Json.dll
 D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\obj\Debug\Restaurante.Entities.csproj.CoreCompileInputs.cache
+D:\Proyectos\RestauranteWebApi\Restaurante.Solution\Restaurante.Entities\obj\Debug\Restaurante.Entities.csproj.CopyComplete
